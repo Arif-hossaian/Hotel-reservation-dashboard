@@ -55,14 +55,14 @@ const Login = () => {
       }}
     >
       <Grid container spacing={2}>
-        <Grid item sx={{ mt: 10, mx: 'auto' }} xs={11} md={4} lg={3}>
-          <Box sx={{ textAlign: 'center', mb: 2 }}>
+        <Grid item sx={{ mt: 20, mx: 'auto' }} xs={11} md={4} lg={3}>
+          {/* <Box sx={{ textAlign: 'center', mb: 2 }}>
             <img
-              src="https://i.ibb.co/2g73Qtx/reservation-icon-28.jpg"
+              src="https://i.ibb.co/qLG7Gj2/reservation.png"
               style={{ width: '100px', height: '100px' }}
               alt="Hotel Reservation"
             />
-          </Box>
+          </Box> */}
           <Card sx={{ p: 5, textAlign: 'center', boxShadow: 5 }}>
             <Typography variant="h5" gutterBottom>
               Login to Admin Panel
