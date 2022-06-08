@@ -1,0 +1,1 @@
+export const ID_OF_HOTEL_PADMA = '62935319559cb8262f08859b';
